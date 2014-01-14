@@ -1,0 +1,43 @@
+p{
+color:white;
+}
+body{
+background-color:#000;
+
+}
+
+.container{
+width: 1200px;
+margin: 0 auto;
+background-color:#FFF;
+background-image:url('imgs/bg.png');
+
+
+}
+
+footer{
+padding: 10px 0;
+position:relative;
+background-image:url('imgs/bgfh.png');
+
+color:white;
+}
+
+header{
+
+padding: 10px 0;
+position:relative;
+background-image:url('imgs/bgfh.png');
+color:white;
+
+}
+form{
+font-family: 'Merriweather', serif;color:white;-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 20px 6px -6px black;
+	        box-shadow: 0 20px 6px -6px black;margin-right:650px;padding-left:10px;background-color:#000
+}
+
+a:link {color:white;}    
+a:visited {color:white;} 
+a:hover {background-color:#FF704D;}  
+a:active {background-color:#FF704D;}  
